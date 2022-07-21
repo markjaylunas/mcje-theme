@@ -1,6 +1,6 @@
 [![codeSTACKr Theme Demo](https://raw.githubusercontent.com/markjaylunas/mcje-theme/master/images/sample.jpg)](https://github.com/markjaylunas/mcje-theme)
-
 # mcje Theme for VS Code
+
 
 ## You are welcome to use my personal theme
 
