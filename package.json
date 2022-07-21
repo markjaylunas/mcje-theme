@@ -1,0 +1,44 @@
+{
+    "name": "mcje-theme",
+    "displayName": "mcje theme",
+    "description": "mcje's personal theme",
+    "publisher": "mcje",
+    "author": {
+        "name": "Mark Jay Lunas"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markjaylunas/mcje-vscode-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "icon": "images/icon/mcje_500_600.png",
+    "keywords": [
+        "Mcje Theme",
+        "Dark Theme",
+        "VSCode SuperHero",
+        "vsCodeHero",
+        "mcje",
+        "teal",
+        "blue",
+        "theme"
+      ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mcje Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mcje-color-theme.json"
+            }
+        ]
+    }
+}
