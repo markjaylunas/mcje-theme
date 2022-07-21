@@ -1,11 +1,10 @@
-
 [![codeSTACKr Theme Demo](https://raw.githubusercontent.com/markjaylunas/mcje-theme/master/images/sample.jpg)](https://github.com/markjaylunas/mcje-theme)
-
 # mcje Theme for VS Code
-##### You are welcome to use my personal theme. 
+
+
+## You are welcome to use my personal theme
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/markjaylunas.mcje-theme.svg?subject=mcje%20Theme&colorA=09131b&colorB=37E2D5)](https://github.com/markjaylunas/mcje-theme)
-
 
 ## Installation
 
